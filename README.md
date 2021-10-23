@@ -8,5 +8,5 @@ Mingxin Hu's sentiment analysis FYP
 
   ---TextCNN
 
-
+Can't upload the weights of the networks because the pkl file size exceeds 25MB
 
